@@ -1,0 +1,13 @@
+.Bio {
+    width: 90vw;
+    height: 80vh;
+
+    display: flex;
+
+    margin: 5vh auto;   
+    border: rgb(32,35,42) solid 1px;
+    border-radius: 20px;
+
+    contain: content;
+
+}

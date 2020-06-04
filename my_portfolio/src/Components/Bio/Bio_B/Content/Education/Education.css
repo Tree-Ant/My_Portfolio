@@ -1,0 +1,24 @@
+.Education img {
+    width: 100%;
+    
+    
+}
+
+.EduBlock {
+    display: flex;
+    width: 100%;
+    /* border: black solid 1px; */
+}
+
+.EduLogo {
+    /* border: black solid 1px; */
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    margin-right: 5%;
+}
+.EduInfo {
+    /* border: black solid 1px; */
+    width: 75%;
+    /* padding-top: 10%; */
+}

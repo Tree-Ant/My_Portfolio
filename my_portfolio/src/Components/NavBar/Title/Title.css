@@ -1,0 +1,9 @@
+.Title {
+    color: red;
+    width: 75%;
+    /* border: blue solid 1px; */
+}
+
+.Title h1 {
+    margin: 0;
+}

@@ -1,0 +1,10 @@
+.Divider {
+    width: 100%;    
+}
+
+.Divider div {
+    margin: 5% 5%;
+    width: 90%;
+    border-bottom: black solid 3px;
+    float: left;
+}

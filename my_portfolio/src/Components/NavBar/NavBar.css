@@ -1,0 +1,14 @@
+.NavBar {
+    background-color: rgb(32,35,42);
+    margin: 0;
+    width: 100%;
+
+    /* border: red solid 1px; */
+
+    display: inline-flex;
+
+}
+
+.RightSide {
+    float: left;
+}

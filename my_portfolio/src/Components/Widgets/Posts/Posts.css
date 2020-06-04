@@ -1,0 +1,27 @@
+.Posts {
+    width: 50%;
+    height: 90vh;
+    /* border: black solid 1px; */
+    /* border-radius: 10px; */
+
+    margin: auto;
+    padding: 20px;
+
+    overflow-y: auto;
+}
+
+.Posts::-webkit-scrollbar {
+    display: none;
+}
+
+.Posts h1 {
+    margin: 5vh;
+    text-align: center;
+}
+
+.Posts img {
+    height: 25vh;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}

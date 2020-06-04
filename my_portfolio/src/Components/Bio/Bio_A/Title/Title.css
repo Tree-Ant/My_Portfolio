@@ -1,0 +1,22 @@
+.Title {
+    width: 100%;
+    margin-left: 10%;
+}
+
+.Title div {
+    margin: 10% 0;
+}
+
+.Title img {
+    height: 3vh;
+    vertical-align:middle;
+}
+
+.Title span {
+    padding-left: 20px;
+}
+
+.Title a {
+    text-decoration: none;
+    color: black;
+}

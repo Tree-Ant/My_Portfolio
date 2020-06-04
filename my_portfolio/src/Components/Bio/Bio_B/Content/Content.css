@@ -1,0 +1,9 @@
+.Content {
+    margin: 20px auto;
+    width: 100%;
+    float: left;
+}
+
+.Content p {
+    padding: 10px;
+}
